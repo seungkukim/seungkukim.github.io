@@ -1,0 +1,3 @@
+services:
+  - role: "Reviewer"
+    venues: "CoRL Workshop"

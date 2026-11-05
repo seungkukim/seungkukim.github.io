@@ -1,0 +1,10 @@
+educations:
+- place: "Korea Advanced Institute of Science and Technology (KAIST)"
+  time: "Mar. 2026 - Present"
+  title: "M.S. in Artificial Intelligence, Kim Jaechul Graduate School of AI (Advisor: <a href='https://alinlab.kaist.ac.kr/shin.html'>Prof. Jinwoo Shin</a>)"
+  category: "school"
+
+- place: "Korea Advanced Institute of Science and Technology (KAIST)"
+  time: "Mar. 2020 - Feb. 2026"
+  title: "B.S. in Computer Science (Summa Cum Laude)"
+  category: "school"
